@@ -1,0 +1,19 @@
+{
+    "name": "akdeka/phpapp",
+    "description": "csssds",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gitachyut",
+            "email": "linkinakd72@gmail.com"
+        }
+    ],
+    "autoload":{
+      "psr-4":{
+        "app\\":"src"
+      }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
